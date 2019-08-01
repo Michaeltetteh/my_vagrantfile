@@ -3,8 +3,8 @@ apt-get update
 
 #install python3.7 pip and venv
 sudo apt-get install -y python3.7
-sudo apt install -y python3.7-pip
-sudo apt-get install -y python3.7-venv
+sudo apt install -y python3-pip
+sudo apt-get install -y python3-venv
 
 
 # sudo apt install -y python3-pip
